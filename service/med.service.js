@@ -1,4 +1,4 @@
-const Med = require("../db-model/Med");
+const Med = require("../model/Med");
 const MedDto = require("../dto/Med");
 
 class MedService {

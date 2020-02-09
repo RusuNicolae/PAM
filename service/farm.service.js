@@ -1,4 +1,4 @@
-const Farm = require("../db-model/Farm");
+const Farm = require("../model/Farm");
 const FarmDto = require("../dto/Farm");
 
 class FarmService {
